@@ -21,7 +21,7 @@ Follow these steps to install and set up the ForecastPlugin in your Laravel proj
 
 
 ### 2. Extract the Zip File
-- Extract the Plugins.zip file into the `app` directory of your Laravel project.
+- Extract the Plugins.zip file into the `ROOT_DIRECTORY/app` directory of your Laravel project.
 
 ### 3. Register the Service Provider
 - Open the `ROOT_DIRECTORY/config/app.php` file.
