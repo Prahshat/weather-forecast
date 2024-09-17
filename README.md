@@ -7,10 +7,17 @@ The **ForecastPlugin** is a Laravel plugin that captures weather data and displa
 Follow these steps to install and set up the ForecastPlugin in your Laravel project:
 
 ### 1. Download the source code from git**
+
 - You can download it manually by clicking download zip.
 - You can take git clone too.
+
    a.) Run command 'git clone https://github.com/Prahshat/weather-forcast.git'
-   b.) New Folder named weather-forcast will be clone to the directory. you can find the zip of the plugin.
+      ** use these credentails for clone:- **
+
+        user :- Prahshat
+        Password :- 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
+
+   b.) New Folder named weather-forcast will be clone to the directory. you will find the zip of the plugin in that folder.
 
 
 ### 2. Extract the Zip File
