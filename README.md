@@ -71,3 +71,4 @@ Follow these steps to install and set up the ForecastPlugin in your Laravel proj
     http://YOUR_PROJECT_BASEURL/Weather
     ```
 
+**Note :- The Cron setup will be done on the server level**
