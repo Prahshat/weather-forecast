@@ -1,8 +1,3 @@
-Read me file 
-
-
-Steps to install the plugin in laravel:- 
-
 # ForecastPlugin for Laravel
 
 The **ForecastPlugin** is a Laravel plugin that captures weather data and displays forecasts for the Palma city.
