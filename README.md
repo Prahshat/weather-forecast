@@ -17,11 +17,11 @@ Follow these steps to install and set up the ForecastPlugin in your Laravel proj
         user :- Prahshat
         Password :- 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
 
-   b.) New Folder named weather-forcast will be clone to the directory. you will find the Plugins.zip of the plugin in that folder.
+   b.) New Folder named weather-forcast will be clone to the directory. you will find the Plugins Folder  in that folder.
 
 
 ### 2. Extract the Zip File
-- Extract the Plugins.zip file into the `ROOT_DIRECTORY/app` directory of your Laravel project.
+- Copy the Plugins folder into the `ROOT_DIRECTORY/app` directory of your Laravel project.
 
 ### 3. Register the Service Provider
 - Open the `ROOT_DIRECTORY/config/app.php` file.
